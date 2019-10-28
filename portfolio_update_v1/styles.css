@@ -216,3 +216,24 @@ h3 {
   border-radius: 10px;
 
 }
+
+.text-class {
+  color: purple;
+  background-color: #e2e2e2;
+}
+
+.qualifications {
+  text-align: left;
+
+}
+
+.qualifications list {
+  text-align: left;
+
+}
+
+.main-image {
+  border: solid 4px black;
+  border-radius: 50%;
+
+}
