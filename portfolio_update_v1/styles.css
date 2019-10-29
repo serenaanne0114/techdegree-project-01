@@ -218,16 +218,16 @@ h3 {
 }
 
 .text-class {
-  color: purple;
+  padding: 5px;
   background-color: #e2e2e2;
 }
 
-.qualifications {
+.section-title {
   text-align: left;
-
+  text-transform: uppercase;
 }
 
-.qualifications list {
+.list {
   text-align: left;
 
 }
