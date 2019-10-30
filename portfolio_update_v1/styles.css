@@ -214,6 +214,7 @@ h3 {
   text-align: center;
   border: solid green 3px;
   border-radius: 10px;
+  padding: 5px;
 
 }
 
@@ -228,7 +229,9 @@ h3 {
 }
 
 .list {
-  text-align: left;
+  margin: 0 auto;
+  padding: 5px;
+  line-height: 200%;
 
 }
 
