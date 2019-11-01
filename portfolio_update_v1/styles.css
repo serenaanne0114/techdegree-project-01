@@ -31,6 +31,7 @@ a:hover {
   position: fixed;
   text-align: center;
 }
+
 .nav {
   display: flex;
   justify-content: space-around;
@@ -62,9 +63,11 @@ header {
   overflow: hidden;
   padding-top: 60px;
 }
+
 header {
   line-height: 1.5;
 }
+
 header .profile-image {
   margin-top: 50px;
   width: 150px;
@@ -73,9 +76,11 @@ header .profile-image {
   border: 3px solid white;
   transition: all .5s;
 }
+
 header .profile-image:hover {
   transform: scale(1.2) rotate(360deg);
 }
+
 .tag {
   background-color: #efefef;
   color: black;
@@ -84,10 +89,12 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 }
+
 .location {
   background-color: #222;
   color: green;
 }
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -98,6 +105,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
 .card:hover {
   border-color: #ff99ff;
 }
@@ -238,5 +246,15 @@ h3 {
 .main-image {
   border: solid 4px black;
   border-radius: 50%;
+
+}
+
+.experience-image {
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid white;
+  transition: all .5s;
 
 }
