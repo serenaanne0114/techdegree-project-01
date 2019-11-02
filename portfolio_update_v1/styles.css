@@ -258,3 +258,39 @@ h3 {
   transition: all .5s;
 
 }
+
+.contact-image {
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid white;
+  transition: all .5s;
+
+}
+
+.experience-header {
+  text-align: center;
+  background: url('images/rsz_hotel-near-seattle-space-needle.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+
+}
+
+.contact-background{
+  text-align: center;
+  background: url('images/maxresdefault.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+.photos-background {
+  text-align: center;
+  background: url('images/Hakone-Ashino-lakeKanagawa-PrefectureJapan.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+
+}
